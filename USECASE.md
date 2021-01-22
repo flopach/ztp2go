@@ -1,6 +1,6 @@
 ZTP2GO: Zero Touch Provisioning with Cisco IOS XE and Raspberry Pi
 =====================================
-Easily provision Cisco IOS XE based networking devices on the go with a raspberry pi.
+Easily provision Cisco IOS XE based networking devices on the go with a Raspberry Pi.
 
 When deploying a fresh or resetted Catalyst 9000 switch, it can be easily provisioned on the go by connecting a raspberry Pi (Ubuntu Server, ISC DHCP Server, Apache/Nginx Webserver).
 
